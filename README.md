@@ -60,8 +60,6 @@ Microphone and Speakers facility for Offline training program.
             c. SharedPreferences
             d. Room Persistence Library.
 
-
-
 ### Course Objectives :
 - To enable the faculty/student of all Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students/friends.
 ### Entry Requirements :
